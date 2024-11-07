@@ -1,6 +1,6 @@
 @echo off
 chcp 65001
-title Webhook Spammer
+title Webhook Spammer - by YDBYY
 color 0A
 
 
